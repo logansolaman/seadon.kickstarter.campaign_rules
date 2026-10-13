@@ -1905,20 +1905,9 @@
             "Sundial Orange": "seadon-womens-verano-camp-collar-shirt-sundial-orange"
           }
         }
-      }
-    },
-    "backers": 873,
-    "pledged": "$82,968"
-  },
-  "merino_shirt_all": {
-    "campaign_title": "This Is Not Your Typical Merino Shirt",
-    "campaign_image": "https://i.kickstarter.com/assets/054/792/967/44805b952f334ddbfc6ae31afa8cf792_original.jpg?anim=false&fit=cover&gravity=auto&height=873&origin=ugc&q=92&v=1787016110&width=1552&sig=k4DaG9nlsYQ4tkGtFUcn20cK8wNBQgKmEmKtyQvvqLU%3D",
-    "gift_products": [
-      "seadon-merino-socks"
-    ],
-    "rewards": {
+      },
       "11390001": {
-        "name": "All Styles — 1 Shirt",
+        "name": "This Is Not Your Typical Merino Shirt",
         "qty": 1,
         "gift_products": [
           "seadon-merino-socks"
@@ -1945,124 +1934,9 @@
             "SF100 Printed — Snow Peak Blue": "seadon-womens-merino-sf100-long-sleeve-tee-graphic-snow-peak-blue"
           }
         }
-      },
-      "11390002": {
-        "name": "All Styles — 2 Shirts",
-        "qty": 2,
-        "gift_products": [
-          "seadon-merino-socks"
-        ],
-        "options_tree": {
-          "Men": {
-            "Traveler — Navy Blue": "seadon-mens-traveler-merino-long-sleeve-tee-navy-blue",
-            "Traveler — Iceberg Green": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-iceberg-green",
-            "Traveler — Red Mahogany": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
-            "SF100 — Jet Black": "seadon-mens-merino-sf100-long-sleeve-tee-jet-black",
-            "SF100 — Jungle Green": "seadon-mens-merino-sf100-long-sleeve-tee-jungle-green",
-            "SF100 — Sand": "seadon-mens-merino-sf100-long-sleeve-tee-sand",
-            "SF100 Printed — Forest Camo": "seadon-mens-merino-sf100-long-sleeve-tee-graphic-forest-camo",
-            "SF100 Printed — Night Peak Camp": "seadon-mens-merino-sf100-long-sleeve-tee-graphic-night-peak-camp"
-          },
-          "Women": {
-            "Traveler — Red Mahogany": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
-            "Traveler — Roasted Pecan": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-roasted-pecan",
-            "Traveler — Sky Blue": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-sky-blue",
-            "SF100 — Jet Black": "seadon-womens-merino-sf100-long-sleeve-tee-jet-black",
-            "SF100 — Jungle Green": "seadon-womens-merino-sf100-long-sleeve-tee-jungle-green",
-            "SF100 — Nightshadow Blue": "seadon-womens-merino-sf100-long-sleeve-tee-nightshadow-blue",
-            "SF100 Printed — Forest Camo": "seadon-womens-merino-sf100-long-sleeve-tee-graphic-forest-camo",
-            "SF100 Printed — Snow Peak Blue": "seadon-womens-merino-sf100-long-sleeve-tee-graphic-snow-peak-blue"
-          }
-        }
-      },
-      "11390003": {
-        "name": "All Styles — 3 Shirts",
-        "qty": 3,
-        "gift_products": [
-          "seadon-merino-socks"
-        ],
-        "options_tree": {
-          "Men": {
-            "Traveler — Navy Blue": "seadon-mens-traveler-merino-long-sleeve-tee-navy-blue",
-            "Traveler — Iceberg Green": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-iceberg-green",
-            "Traveler — Red Mahogany": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
-            "SF100 — Jet Black": "seadon-mens-merino-sf100-long-sleeve-tee-jet-black",
-            "SF100 — Jungle Green": "seadon-mens-merino-sf100-long-sleeve-tee-jungle-green",
-            "SF100 — Sand": "seadon-mens-merino-sf100-long-sleeve-tee-sand",
-            "SF100 Printed — Forest Camo": "seadon-mens-merino-sf100-long-sleeve-tee-graphic-forest-camo",
-            "SF100 Printed — Night Peak Camp": "seadon-mens-merino-sf100-long-sleeve-tee-graphic-night-peak-camp"
-          },
-          "Women": {
-            "Traveler — Red Mahogany": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
-            "Traveler — Roasted Pecan": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-roasted-pecan",
-            "Traveler — Sky Blue": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-sky-blue",
-            "SF100 — Jet Black": "seadon-womens-merino-sf100-long-sleeve-tee-jet-black",
-            "SF100 — Jungle Green": "seadon-womens-merino-sf100-long-sleeve-tee-jungle-green",
-            "SF100 — Nightshadow Blue": "seadon-womens-merino-sf100-long-sleeve-tee-nightshadow-blue",
-            "SF100 Printed — Forest Camo": "seadon-womens-merino-sf100-long-sleeve-tee-graphic-forest-camo",
-            "SF100 Printed — Snow Peak Blue": "seadon-womens-merino-sf100-long-sleeve-tee-graphic-snow-peak-blue"
-          }
-        }
-      },
-      "11390004": {
-        "name": "All Styles — 4 Shirts",
-        "qty": 4,
-        "gift_products": [
-          "seadon-merino-socks"
-        ],
-        "options_tree": {
-          "Men": {
-            "Traveler — Navy Blue": "seadon-mens-traveler-merino-long-sleeve-tee-navy-blue",
-            "Traveler — Iceberg Green": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-iceberg-green",
-            "Traveler — Red Mahogany": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
-            "SF100 — Jet Black": "seadon-mens-merino-sf100-long-sleeve-tee-jet-black",
-            "SF100 — Jungle Green": "seadon-mens-merino-sf100-long-sleeve-tee-jungle-green",
-            "SF100 — Sand": "seadon-mens-merino-sf100-long-sleeve-tee-sand",
-            "SF100 Printed — Forest Camo": "seadon-mens-merino-sf100-long-sleeve-tee-graphic-forest-camo",
-            "SF100 Printed — Night Peak Camp": "seadon-mens-merino-sf100-long-sleeve-tee-graphic-night-peak-camp"
-          },
-          "Women": {
-            "Traveler — Red Mahogany": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
-            "Traveler — Roasted Pecan": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-roasted-pecan",
-            "Traveler — Sky Blue": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-sky-blue",
-            "SF100 — Jet Black": "seadon-womens-merino-sf100-long-sleeve-tee-jet-black",
-            "SF100 — Jungle Green": "seadon-womens-merino-sf100-long-sleeve-tee-jungle-green",
-            "SF100 — Nightshadow Blue": "seadon-womens-merino-sf100-long-sleeve-tee-nightshadow-blue",
-            "SF100 Printed — Forest Camo": "seadon-womens-merino-sf100-long-sleeve-tee-graphic-forest-camo",
-            "SF100 Printed — Snow Peak Blue": "seadon-womens-merino-sf100-long-sleeve-tee-graphic-snow-peak-blue"
-          }
-        }
-      },
-      "11390005": {
-        "name": "All Styles — 5 Shirts",
-        "qty": 5,
-        "gift_products": [
-          "seadon-merino-socks"
-        ],
-        "options_tree": {
-          "Men": {
-            "Traveler — Navy Blue": "seadon-mens-traveler-merino-long-sleeve-tee-navy-blue",
-            "Traveler — Iceberg Green": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-iceberg-green",
-            "Traveler — Red Mahogany": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
-            "SF100 — Jet Black": "seadon-mens-merino-sf100-long-sleeve-tee-jet-black",
-            "SF100 — Jungle Green": "seadon-mens-merino-sf100-long-sleeve-tee-jungle-green",
-            "SF100 — Sand": "seadon-mens-merino-sf100-long-sleeve-tee-sand",
-            "SF100 Printed — Forest Camo": "seadon-mens-merino-sf100-long-sleeve-tee-graphic-forest-camo",
-            "SF100 Printed — Night Peak Camp": "seadon-mens-merino-sf100-long-sleeve-tee-graphic-night-peak-camp"
-          },
-          "Women": {
-            "Traveler — Red Mahogany": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
-            "Traveler — Roasted Pecan": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-roasted-pecan",
-            "Traveler — Sky Blue": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-sky-blue",
-            "SF100 — Jet Black": "seadon-womens-merino-sf100-long-sleeve-tee-jet-black",
-            "SF100 — Jungle Green": "seadon-womens-merino-sf100-long-sleeve-tee-jungle-green",
-            "SF100 — Nightshadow Blue": "seadon-womens-merino-sf100-long-sleeve-tee-nightshadow-blue",
-            "SF100 Printed — Forest Camo": "seadon-womens-merino-sf100-long-sleeve-tee-graphic-forest-camo",
-            "SF100 Printed — Snow Peak Blue": "seadon-womens-merino-sf100-long-sleeve-tee-graphic-snow-peak-blue"
-          }
-        }
       }
     },
-    "add_ons": {}
+    "backers": 873,
+    "pledged": "$82,968"
   }
 }
