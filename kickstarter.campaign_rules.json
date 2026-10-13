@@ -1,10 +1,10 @@
 {
   "merino_shirt": {
-    "": "This Is Not Your Typical Merino Shirt",
+    "campaign_title": "This Is Not Your Typical Merino Shirt",
     "campaign_image": "https://i.kickstarter.com/assets/054/792/967/44805b952f334ddbfc6ae31afa8cf792_original.jpg?anim=false&fit=cover&gravity=auto&height=873&origin=ugc&q=92&v=1787016110&width=1552&sig=k4DaG9nlsYQ4tkGtFUcn20cK8wNBQgKmEmKtyQvvqLU%3D",
     "gift_products": [
       "seadon-merino-socks"
-    ],campaign_title
+    ],
     "rewards": {
       "11348952": {
         "name": "Launch Special — 1 Merino Style",
