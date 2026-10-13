@@ -1,180 +1,4 @@
 {
-  "gale_v2": {
-    "campaign_title": "Gale V2 - Ultralight Adventure Jacket",
-    "campaign_image": "https://cdn.shopify.com/s/files/1/0940/1709/3879/files/gale_v2.jpg?v=1787576629",
-    "rewards": {
-      "10602057": {
-        "name": "🚀 Launch Special – 72hr Only",
-        "image": "https://cdn.shopify.com/s/files/1/0940/1709/3879/files/gale_v2-launch-special-72hr.jpg?v=1787643635",
-        "qty": 1,
-        "options_tree": {
-          "Men": {
-            "Blue Peak Camo": "seadon-mens-gale-v2-jacket-blue-peak-camo",
-            "Gray Peak Camo": "seadon-mens-gale-v2-jacket-gray-peak-camo",
-            "High Fives Camo": "seadon-mens-gale-v2-jacket-high-fives-camo",
-            "Ivy Green": "seadon-mens-gale-v2-jacket-ivy-green",
-            "Vulcan Navy": "seadon-mens-gale-v2-jacket-vulcan-navy"
-          },
-          "Women": {
-            "Blue Peak Camo": "seadon-womens-gale-v2-jacket-blue-peak-camo",
-            "Gray Peak Camo": "seadon-womens-gale-v2-jacket-gray-peak-camo",
-            "High Fives Camo": "seadon-womens-gale-v2-jacket-high-fives-camo",
-            "Ivy Green": "seadon-womens-gale-v2-jacket-ivy-green",
-            "Vulcan Navy": "seadon-womens-gale-v2-jacket-vulcan-navy"
-          }
-        }
-      },
-      "10602158": {
-        "name": "🌱 Early Bird (Priority Shipping)",
-        "image": "https://cdn.shopify.com/s/files/1/0940/1709/3879/files/gale_v2-early-bird-priority-shipping.webp?v=1787643919",
-        "qty": 1,
-        "options_tree": {
-          "Men": {
-            "Blue Peak Camo": "seadon-mens-gale-v2-jacket-blue-peak-camo",
-            "Gray Peak Camo": "seadon-mens-gale-v2-jacket-gray-peak-camo",
-            "High Fives Camo": "seadon-mens-gale-v2-jacket-high-fives-camo",
-            "Ivy Green": "seadon-mens-gale-v2-jacket-ivy-green",
-            "Vulcan Navy": "seadon-mens-gale-v2-jacket-vulcan-navy"
-          },
-          "Women": {
-            "Blue Peak Camo": "seadon-womens-gale-v2-jacket-blue-peak-camo",
-            "Gray Peak Camo": "seadon-womens-gale-v2-jacket-gray-peak-camo",
-            "High Fives Camo": "seadon-womens-gale-v2-jacket-high-fives-camo",
-            "Ivy Green": "seadon-womens-gale-v2-jacket-ivy-green",
-            "Vulcan Navy": "seadon-womens-gale-v2-jacket-vulcan-navy"
-          }
-        }
-      },
-      "10602165": {
-        "name": "Kickstarter Special",
-        "image": "https://cdn.shopify.com/s/files/1/0940/1709/3879/files/gale_v2-kickstarter-special.webp?v=1787643919",
-        "qty": 1,
-        "options_tree": {
-          "Men": {
-            "Blue Peak Camo": "seadon-mens-gale-v2-jacket-blue-peak-camo",
-            "Gray Peak Camo": "seadon-mens-gale-v2-jacket-gray-peak-camo",
-            "High Fives Camo": "seadon-mens-gale-v2-jacket-high-fives-camo",
-            "Ivy Green": "seadon-mens-gale-v2-jacket-ivy-green",
-            "Vulcan Navy": "seadon-mens-gale-v2-jacket-vulcan-navy"
-          },
-          "Women": {
-            "Blue Peak Camo": "seadon-womens-gale-v2-jacket-blue-peak-camo",
-            "Gray Peak Camo": "seadon-womens-gale-v2-jacket-gray-peak-camo",
-            "High Fives Camo": "seadon-womens-gale-v2-jacket-high-fives-camo",
-            "Ivy Green": "seadon-womens-gale-v2-jacket-ivy-green",
-            "Vulcan Navy": "seadon-womens-gale-v2-jacket-vulcan-navy"
-          }
-        }
-      },
-      "10602171": {
-        "name": "👥 Duo Pack – Better Value",
-        "image": "https://cdn.shopify.com/s/files/1/0940/1709/3879/files/gale_v2-duo-pack-better-value.webp?v=1787643920",
-        "qty": 2,
-        "options_tree": {
-          "Men": {
-            "Blue Peak Camo": "seadon-mens-gale-v2-jacket-blue-peak-camo",
-            "Gray Peak Camo": "seadon-mens-gale-v2-jacket-gray-peak-camo",
-            "High Fives Camo": "seadon-mens-gale-v2-jacket-high-fives-camo",
-            "Ivy Green": "seadon-mens-gale-v2-jacket-ivy-green",
-            "Vulcan Navy": "seadon-mens-gale-v2-jacket-vulcan-navy"
-          },
-          "Women": {
-            "Blue Peak Camo": "seadon-womens-gale-v2-jacket-blue-peak-camo",
-            "Gray Peak Camo": "seadon-womens-gale-v2-jacket-gray-peak-camo",
-            "High Fives Camo": "seadon-womens-gale-v2-jacket-high-fives-camo",
-            "Ivy Green": "seadon-womens-gale-v2-jacket-ivy-green",
-            "Vulcan Navy": "seadon-womens-gale-v2-jacket-vulcan-navy"
-          }
-        }
-      },
-      "10602179": {
-        "name": "👌 Triple Pack – Mix It Up",
-        "image": "https://cdn.shopify.com/s/files/1/0940/1709/3879/files/gale_v2-triple-pack-mix.webp?v=1787643919",
-        "qty": 3,
-        "options_tree": {
-          "Men": {
-            "Blue Peak Camo": "seadon-mens-gale-v2-jacket-blue-peak-camo",
-            "Gray Peak Camo": "seadon-mens-gale-v2-jacket-gray-peak-camo",
-            "High Fives Camo": "seadon-mens-gale-v2-jacket-high-fives-camo",
-            "Ivy Green": "seadon-mens-gale-v2-jacket-ivy-green",
-            "Vulcan Navy": "seadon-mens-gale-v2-jacket-vulcan-navy"
-          },
-          "Women": {
-            "Blue Peak Camo": "seadon-womens-gale-v2-jacket-blue-peak-camo",
-            "Gray Peak Camo": "seadon-womens-gale-v2-jacket-gray-peak-camo",
-            "High Fives Camo": "seadon-womens-gale-v2-jacket-high-fives-camo",
-            "Ivy Green": "seadon-womens-gale-v2-jacket-ivy-green",
-            "Vulcan Navy": "seadon-womens-gale-v2-jacket-vulcan-navy"
-          }
-        }
-      },
-      "10602181": {
-        "name": "🧭 4-Pack – Group Value",
-        "image": "https://cdn.shopify.com/s/files/1/0940/1709/3879/files/gale_v2-4-pack-group-value.webp?v=1787643920",
-        "qty": 4,
-        "options_tree": {
-          "Men": {
-            "Blue Peak Camo": "seadon-mens-gale-v2-jacket-blue-peak-camo",
-            "Gray Peak Camo": "seadon-mens-gale-v2-jacket-gray-peak-camo",
-            "High Fives Camo": "seadon-mens-gale-v2-jacket-high-fives-camo",
-            "Ivy Green": "seadon-mens-gale-v2-jacket-ivy-green",
-            "Vulcan Navy": "seadon-mens-gale-v2-jacket-vulcan-navy"
-          },
-          "Women": {
-            "Blue Peak Camo": "seadon-womens-gale-v2-jacket-blue-peak-camo",
-            "Gray Peak Camo": "seadon-womens-gale-v2-jacket-gray-peak-camo",
-            "High Fives Camo": "seadon-womens-gale-v2-jacket-high-fives-camo",
-            "Ivy Green": "seadon-womens-gale-v2-jacket-ivy-green",
-            "Vulcan Navy": "seadon-womens-gale-v2-jacket-vulcan-navy"
-          }
-        }
-      },
-      "10602250": {
-        "name": "🖐️ 5-Pack – Complete the Collection",
-        "image": "https://cdn.shopify.com/s/files/1/0940/1709/3879/files/gale_v2-5-pack-complete-collection.webp?v=1787643920",
-        "qty": 5,
-        "options_tree": {
-          "Men": {
-            "Blue Peak Camo": "seadon-mens-gale-v2-jacket-blue-peak-camo",
-            "Gray Peak Camo": "seadon-mens-gale-v2-jacket-gray-peak-camo",
-            "High Fives Camo": "seadon-mens-gale-v2-jacket-high-fives-camo",
-            "Ivy Green": "seadon-mens-gale-v2-jacket-ivy-green",
-            "Vulcan Navy": "seadon-mens-gale-v2-jacket-vulcan-navy"
-          },
-          "Women": {
-            "Blue Peak Camo": "seadon-womens-gale-v2-jacket-blue-peak-camo",
-            "Gray Peak Camo": "seadon-womens-gale-v2-jacket-gray-peak-camo",
-            "High Fives Camo": "seadon-womens-gale-v2-jacket-high-fives-camo",
-            "Ivy Green": "seadon-womens-gale-v2-jacket-ivy-green",
-            "Vulcan Navy": "seadon-womens-gale-v2-jacket-vulcan-navy"
-          }
-        }
-      },
-      "10838584": {
-        "name": "🚀 Early Bird II (Final Flight)",
-        "image": "https://cdn.shopify.com/s/files/1/0940/1709/3879/files/gale_v2-early-bird-ii-final-flight.webp?v=1787643920",
-        "qty": 1,
-        "options_tree": {
-          "Men": {
-            "Blue Peak Camo": "seadon-mens-gale-v2-jacket-blue-peak-camo",
-            "Gray Peak Camo": "seadon-mens-gale-v2-jacket-gray-peak-camo",
-            "High Fives Camo": "seadon-mens-gale-v2-jacket-high-fives-camo",
-            "Ivy Green": "seadon-mens-gale-v2-jacket-ivy-green",
-            "Vulcan Navy": "seadon-mens-gale-v2-jacket-vulcan-navy"
-          },
-          "Women": {
-            "Blue Peak Camo": "seadon-womens-gale-v2-jacket-blue-peak-camo",
-            "Gray Peak Camo": "seadon-womens-gale-v2-jacket-gray-peak-camo",
-            "High Fives Camo": "seadon-womens-gale-v2-jacket-high-fives-camo",
-            "Ivy Green": "seadon-womens-gale-v2-jacket-ivy-green",
-            "Vulcan Navy": "seadon-womens-gale-v2-jacket-vulcan-navy"
-          }
-        }
-      }
-    },
-    "backers": 981,
-    "pledged": "$101,090"
-  },
   "merino_shirt": {
     "campaign_title": "This Is Not Your Typical Merino Shirt",
     "campaign_image": "https://i.kickstarter.com/assets/054/792/967/44805b952f334ddbfc6ae31afa8cf792_original.jpg?anim=false&fit=cover&gravity=auto&height=873&origin=ugc&q=92&v=1787016110&width=1552&sig=k4DaG9nlsYQ4tkGtFUcn20cK8wNBQgKmEmKtyQvvqLU%3D",
@@ -400,7 +224,7 @@
         }
       },
       "11390001": {
-        "name": "All Styles — 1 Shirt",
+        "name": "This Is Not Your Typical Merino Shirt",
         "qty": 1,
         "gift_products": [
           "seadon-merino-socks"
@@ -467,6 +291,182 @@
         }
       }
     }
+  },
+  "gale_v2": {
+    "campaign_title": "Gale V2 - Ultralight Adventure Jacket",
+    "campaign_image": "https://cdn.shopify.com/s/files/1/0940/1709/3879/files/gale_v2.jpg?v=1787576629",
+    "rewards": {
+      "10602057": {
+        "name": "🚀 Launch Special – 72hr Only",
+        "image": "https://cdn.shopify.com/s/files/1/0940/1709/3879/files/gale_v2-launch-special-72hr.jpg?v=1787643635",
+        "qty": 1,
+        "options_tree": {
+          "Men": {
+            "Blue Peak Camo": "seadon-mens-gale-v2-jacket-blue-peak-camo",
+            "Gray Peak Camo": "seadon-mens-gale-v2-jacket-gray-peak-camo",
+            "High Fives Camo": "seadon-mens-gale-v2-jacket-high-fives-camo",
+            "Ivy Green": "seadon-mens-gale-v2-jacket-ivy-green",
+            "Vulcan Navy": "seadon-mens-gale-v2-jacket-vulcan-navy"
+          },
+          "Women": {
+            "Blue Peak Camo": "seadon-womens-gale-v2-jacket-blue-peak-camo",
+            "Gray Peak Camo": "seadon-womens-gale-v2-jacket-gray-peak-camo",
+            "High Fives Camo": "seadon-womens-gale-v2-jacket-high-fives-camo",
+            "Ivy Green": "seadon-womens-gale-v2-jacket-ivy-green",
+            "Vulcan Navy": "seadon-womens-gale-v2-jacket-vulcan-navy"
+          }
+        }
+      },
+      "10602158": {
+        "name": "🌱 Early Bird (Priority Shipping)",
+        "image": "https://cdn.shopify.com/s/files/1/0940/1709/3879/files/gale_v2-early-bird-priority-shipping.webp?v=1787643919",
+        "qty": 1,
+        "options_tree": {
+          "Men": {
+            "Blue Peak Camo": "seadon-mens-gale-v2-jacket-blue-peak-camo",
+            "Gray Peak Camo": "seadon-mens-gale-v2-jacket-gray-peak-camo",
+            "High Fives Camo": "seadon-mens-gale-v2-jacket-high-fives-camo",
+            "Ivy Green": "seadon-mens-gale-v2-jacket-ivy-green",
+            "Vulcan Navy": "seadon-mens-gale-v2-jacket-vulcan-navy"
+          },
+          "Women": {
+            "Blue Peak Camo": "seadon-womens-gale-v2-jacket-blue-peak-camo",
+            "Gray Peak Camo": "seadon-womens-gale-v2-jacket-gray-peak-camo",
+            "High Fives Camo": "seadon-womens-gale-v2-jacket-high-fives-camo",
+            "Ivy Green": "seadon-womens-gale-v2-jacket-ivy-green",
+            "Vulcan Navy": "seadon-womens-gale-v2-jacket-vulcan-navy"
+          }
+        }
+      },
+      "10602165": {
+        "name": "Kickstarter Special",
+        "image": "https://cdn.shopify.com/s/files/1/0940/1709/3879/files/gale_v2-kickstarter-special.webp?v=1787643919",
+        "qty": 1,
+        "options_tree": {
+          "Men": {
+            "Blue Peak Camo": "seadon-mens-gale-v2-jacket-blue-peak-camo",
+            "Gray Peak Camo": "seadon-mens-gale-v2-jacket-gray-peak-camo",
+            "High Fives Camo": "seadon-mens-gale-v2-jacket-high-fives-camo",
+            "Ivy Green": "seadon-mens-gale-v2-jacket-ivy-green",
+            "Vulcan Navy": "seadon-mens-gale-v2-jacket-vulcan-navy"
+          },
+          "Women": {
+            "Blue Peak Camo": "seadon-womens-gale-v2-jacket-blue-peak-camo",
+            "Gray Peak Camo": "seadon-womens-gale-v2-jacket-gray-peak-camo",
+            "High Fives Camo": "seadon-womens-gale-v2-jacket-high-fives-camo",
+            "Ivy Green": "seadon-womens-gale-v2-jacket-ivy-green",
+            "Vulcan Navy": "seadon-womens-gale-v2-jacket-vulcan-navy"
+          }
+        }
+      },
+      "10602171": {
+        "name": "👥 Duo Pack – Better Value",
+        "image": "https://cdn.shopify.com/s/files/1/0940/1709/3879/files/gale_v2-duo-pack-better-value.webp?v=1787643920",
+        "qty": 2,
+        "options_tree": {
+          "Men": {
+            "Blue Peak Camo": "seadon-mens-gale-v2-jacket-blue-peak-camo",
+            "Gray Peak Camo": "seadon-mens-gale-v2-jacket-gray-peak-camo",
+            "High Fives Camo": "seadon-mens-gale-v2-jacket-high-fives-camo",
+            "Ivy Green": "seadon-mens-gale-v2-jacket-ivy-green",
+            "Vulcan Navy": "seadon-mens-gale-v2-jacket-vulcan-navy"
+          },
+          "Women": {
+            "Blue Peak Camo": "seadon-womens-gale-v2-jacket-blue-peak-camo",
+            "Gray Peak Camo": "seadon-womens-gale-v2-jacket-gray-peak-camo",
+            "High Fives Camo": "seadon-womens-gale-v2-jacket-high-fives-camo",
+            "Ivy Green": "seadon-womens-gale-v2-jacket-ivy-green",
+            "Vulcan Navy": "seadon-womens-gale-v2-jacket-vulcan-navy"
+          }
+        }
+      },
+      "10602179": {
+        "name": "👌 Triple Pack – Mix It Up",
+        "image": "https://cdn.shopify.com/s/files/1/0940/1709/3879/files/gale_v2-triple-pack-mix.webp?v=1787643919",
+        "qty": 3,
+        "options_tree": {
+          "Men": {
+            "Blue Peak Camo": "seadon-mens-gale-v2-jacket-blue-peak-camo",
+            "Gray Peak Camo": "seadon-mens-gale-v2-jacket-gray-peak-camo",
+            "High Fives Camo": "seadon-mens-gale-v2-jacket-high-fives-camo",
+            "Ivy Green": "seadon-mens-gale-v2-jacket-ivy-green",
+            "Vulcan Navy": "seadon-mens-gale-v2-jacket-vulcan-navy"
+          },
+          "Women": {
+            "Blue Peak Camo": "seadon-womens-gale-v2-jacket-blue-peak-camo",
+            "Gray Peak Camo": "seadon-womens-gale-v2-jacket-gray-peak-camo",
+            "High Fives Camo": "seadon-womens-gale-v2-jacket-high-fives-camo",
+            "Ivy Green": "seadon-womens-gale-v2-jacket-ivy-green",
+            "Vulcan Navy": "seadon-womens-gale-v2-jacket-vulcan-navy"
+          }
+        }
+      },
+      "10602181": {
+        "name": "🧭 4-Pack – Group Value",
+        "image": "https://cdn.shopify.com/s/files/1/0940/1709/3879/files/gale_v2-4-pack-group-value.webp?v=1787643920",
+        "qty": 4,
+        "options_tree": {
+          "Men": {
+            "Blue Peak Camo": "seadon-mens-gale-v2-jacket-blue-peak-camo",
+            "Gray Peak Camo": "seadon-mens-gale-v2-jacket-gray-peak-camo",
+            "High Fives Camo": "seadon-mens-gale-v2-jacket-high-fives-camo",
+            "Ivy Green": "seadon-mens-gale-v2-jacket-ivy-green",
+            "Vulcan Navy": "seadon-mens-gale-v2-jacket-vulcan-navy"
+          },
+          "Women": {
+            "Blue Peak Camo": "seadon-womens-gale-v2-jacket-blue-peak-camo",
+            "Gray Peak Camo": "seadon-womens-gale-v2-jacket-gray-peak-camo",
+            "High Fives Camo": "seadon-womens-gale-v2-jacket-high-fives-camo",
+            "Ivy Green": "seadon-womens-gale-v2-jacket-ivy-green",
+            "Vulcan Navy": "seadon-womens-gale-v2-jacket-vulcan-navy"
+          }
+        }
+      },
+      "10602250": {
+        "name": "🖐️ 5-Pack – Complete the Collection",
+        "image": "https://cdn.shopify.com/s/files/1/0940/1709/3879/files/gale_v2-5-pack-complete-collection.webp?v=1787643920",
+        "qty": 5,
+        "options_tree": {
+          "Men": {
+            "Blue Peak Camo": "seadon-mens-gale-v2-jacket-blue-peak-camo",
+            "Gray Peak Camo": "seadon-mens-gale-v2-jacket-gray-peak-camo",
+            "High Fives Camo": "seadon-mens-gale-v2-jacket-high-fives-camo",
+            "Ivy Green": "seadon-mens-gale-v2-jacket-ivy-green",
+            "Vulcan Navy": "seadon-mens-gale-v2-jacket-vulcan-navy"
+          },
+          "Women": {
+            "Blue Peak Camo": "seadon-womens-gale-v2-jacket-blue-peak-camo",
+            "Gray Peak Camo": "seadon-womens-gale-v2-jacket-gray-peak-camo",
+            "High Fives Camo": "seadon-womens-gale-v2-jacket-high-fives-camo",
+            "Ivy Green": "seadon-womens-gale-v2-jacket-ivy-green",
+            "Vulcan Navy": "seadon-womens-gale-v2-jacket-vulcan-navy"
+          }
+        }
+      },
+      "10838584": {
+        "name": "🚀 Early Bird II (Final Flight)",
+        "image": "https://cdn.shopify.com/s/files/1/0940/1709/3879/files/gale_v2-early-bird-ii-final-flight.webp?v=1787643920",
+        "qty": 1,
+        "options_tree": {
+          "Men": {
+            "Blue Peak Camo": "seadon-mens-gale-v2-jacket-blue-peak-camo",
+            "Gray Peak Camo": "seadon-mens-gale-v2-jacket-gray-peak-camo",
+            "High Fives Camo": "seadon-mens-gale-v2-jacket-high-fives-camo",
+            "Ivy Green": "seadon-mens-gale-v2-jacket-ivy-green",
+            "Vulcan Navy": "seadon-mens-gale-v2-jacket-vulcan-navy"
+          },
+          "Women": {
+            "Blue Peak Camo": "seadon-womens-gale-v2-jacket-blue-peak-camo",
+            "Gray Peak Camo": "seadon-womens-gale-v2-jacket-gray-peak-camo",
+            "High Fives Camo": "seadon-womens-gale-v2-jacket-high-fives-camo",
+            "Ivy Green": "seadon-womens-gale-v2-jacket-ivy-green",
+            "Vulcan Navy": "seadon-womens-gale-v2-jacket-vulcan-navy"
+          }
+        }
+      }
+    },
+    "backers": 981,
+    "pledged": "$101,090"
   },
   "all_terrain_shirts": {
     "campaign_title": "SEADON - All-Terrain Shirts with 16 Natural Performances 🍃",
