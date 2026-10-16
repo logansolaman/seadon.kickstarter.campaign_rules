@@ -2,253 +2,220 @@
   "merino_shirt": {
     "campaign_title": "This Is Not Your Typical Merino Shirt",
     "campaign_image": "https://i.kickstarter.com/assets/054/792/967/44805b952f334ddbfc6ae31afa8cf792_original.jpg?anim=false&fit=cover&gravity=auto&height=873&origin=ugc&q=92&v=1787016110&width=1552&sig=k4DaG9nlsYQ4tkGtFUcn20cK8wNBQgKmEmKtyQvvqLU%3D",
-    "gift_products": [
-      "seadon-merino-socks"
-    ],
     "rewards": {
       "11348952": {
-        "name": "Launch Special — 1 Merino Style",
+        "name": "Launch Special \u2014 1 Merino Style",
         "qty": 1,
-        "gift_products": [
-          "seadon-merino-socks"
-        ],
         "options_tree": {
           "Men": {
-            "Traveler — Navy Blue": "seadon-mens-traveler-merino-long-sleeve-tee-navy-blue",
-            "Traveler — Iceberg Green": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-iceberg-green",
-            "Traveler — Red Mahogany": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
-            "SF100 — Jet Black": "seadon-mens-merino-sf100-long-sleeve-tee-jet-black",
-            "SF100 — Jungle Green": "seadon-mens-merino-sf100-long-sleeve-tee-jungle-green",
-            "SF100 — Sand": "seadon-mens-merino-sf100-long-sleeve-tee-sand"
+            "Traveler \u2014 Deep Teal": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-deep-teal",
+            "Traveler \u2014 Iceberg Green": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-iceberg-green",
+            "Traveler \u2014 Red Mahogany": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
+            "SF100 \u2014 Jet Black": "seadon-mens-merino-sf100-long-sleeve-tee-jet-black",
+            "SF100 \u2014 Jungle Green": "seadon-mens-merino-sf100-long-sleeve-tee-jungle-green",
+            "SF100 \u2014 Sand": "seadon-mens-merino-sf100-long-sleeve-tee-sand"
           },
           "Women": {
-            "Traveler — Red Mahogany": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
-            "Traveler — Roasted Pecan": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-roasted-pecan",
-            "Traveler — Sky Blue": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-sky-blue",
-            "SF100 — Jet Black": "seadon-womens-merino-sf100-long-sleeve-tee-jet-black",
-            "SF100 — Jungle Green": "seadon-womens-merino-sf100-long-sleeve-tee-jungle-green",
-            "SF100 — Nightshadow Blue": "seadon-womens-merino-sf100-long-sleeve-tee-nightshadow-blue"
+            "Traveler \u2014 Red Mahogany": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
+            "Traveler \u2014 Roasted Pecan": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-roasted-pecan",
+            "Traveler \u2014 Sky Blue": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-sky-blue",
+            "SF100 \u2014 Jet Black": "seadon-womens-merino-sf100-long-sleeve-tee-jet-black",
+            "SF100 \u2014 Jungle Green": "seadon-womens-merino-sf100-long-sleeve-tee-jungle-green",
+            "SF100 \u2014 Nightshadow Blue": "seadon-womens-merino-sf100-long-sleeve-tee-nightshadow-blue"
           }
         }
       },
       "11349128": {
-        "name": "Solid Merino Duo — 2 Styles",
+        "name": "Solid Merino Duo \u2014 2 Styles",
         "qty": 2,
-        "gift_products": [
-          "seadon-merino-socks"
-        ],
         "options_tree": {
           "Men": {
-            "Traveler — Navy Blue": "seadon-mens-traveler-merino-long-sleeve-tee-navy-blue",
-            "Traveler — Iceberg Green": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-iceberg-green",
-            "Traveler — Red Mahogany": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
-            "SF100 — Jet Black": "seadon-mens-merino-sf100-long-sleeve-tee-jet-black",
-            "SF100 — Jungle Green": "seadon-mens-merino-sf100-long-sleeve-tee-jungle-green",
-            "SF100 — Sand": "seadon-mens-merino-sf100-long-sleeve-tee-sand"
+            "Traveler \u2014 Deep Teal": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-deep-teal",
+            "Traveler \u2014 Iceberg Green": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-iceberg-green",
+            "Traveler \u2014 Red Mahogany": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
+            "SF100 \u2014 Jet Black": "seadon-mens-merino-sf100-long-sleeve-tee-jet-black",
+            "SF100 \u2014 Jungle Green": "seadon-mens-merino-sf100-long-sleeve-tee-jungle-green",
+            "SF100 \u2014 Sand": "seadon-mens-merino-sf100-long-sleeve-tee-sand"
           },
           "Women": {
-            "Traveler — Red Mahogany": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
-            "Traveler — Roasted Pecan": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-roasted-pecan",
-            "Traveler — Sky Blue": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-sky-blue",
-            "SF100 — Jet Black": "seadon-womens-merino-sf100-long-sleeve-tee-jet-black",
-            "SF100 — Jungle Green": "seadon-womens-merino-sf100-long-sleeve-tee-jungle-green",
-            "SF100 — Nightshadow Blue": "seadon-womens-merino-sf100-long-sleeve-tee-nightshadow-blue"
+            "Traveler \u2014 Red Mahogany": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
+            "Traveler \u2014 Roasted Pecan": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-roasted-pecan",
+            "Traveler \u2014 Sky Blue": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-sky-blue",
+            "SF100 \u2014 Jet Black": "seadon-womens-merino-sf100-long-sleeve-tee-jet-black",
+            "SF100 \u2014 Jungle Green": "seadon-womens-merino-sf100-long-sleeve-tee-jungle-green",
+            "SF100 \u2014 Nightshadow Blue": "seadon-womens-merino-sf100-long-sleeve-tee-nightshadow-blue"
           }
         }
       },
       "11349152": {
-        "name": "Solid Merino Trio — 3 Styles",
+        "name": "Solid Merino Trio \u2014 3 Styles",
         "qty": 3,
-        "gift_products": [
-          "seadon-merino-socks"
-        ],
         "options_tree": {
           "Men": {
-            "Traveler — Navy Blue": "seadon-mens-traveler-merino-long-sleeve-tee-navy-blue",
-            "Traveler — Iceberg Green": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-iceberg-green",
-            "Traveler — Red Mahogany": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
-            "SF100 — Jet Black": "seadon-mens-merino-sf100-long-sleeve-tee-jet-black",
-            "SF100 — Jungle Green": "seadon-mens-merino-sf100-long-sleeve-tee-jungle-green",
-            "SF100 — Sand": "seadon-mens-merino-sf100-long-sleeve-tee-sand"
+            "Traveler \u2014 Deep Teal": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-deep-teal",
+            "Traveler \u2014 Iceberg Green": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-iceberg-green",
+            "Traveler \u2014 Red Mahogany": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
+            "SF100 \u2014 Jet Black": "seadon-mens-merino-sf100-long-sleeve-tee-jet-black",
+            "SF100 \u2014 Jungle Green": "seadon-mens-merino-sf100-long-sleeve-tee-jungle-green",
+            "SF100 \u2014 Sand": "seadon-mens-merino-sf100-long-sleeve-tee-sand"
           },
           "Women": {
-            "Traveler — Red Mahogany": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
-            "Traveler — Roasted Pecan": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-roasted-pecan",
-            "Traveler — Sky Blue": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-sky-blue",
-            "SF100 — Jet Black": "seadon-womens-merino-sf100-long-sleeve-tee-jet-black",
-            "SF100 — Jungle Green": "seadon-womens-merino-sf100-long-sleeve-tee-jungle-green",
-            "SF100 — Nightshadow Blue": "seadon-womens-merino-sf100-long-sleeve-tee-nightshadow-blue"
+            "Traveler \u2014 Red Mahogany": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
+            "Traveler \u2014 Roasted Pecan": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-roasted-pecan",
+            "Traveler \u2014 Sky Blue": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-sky-blue",
+            "SF100 \u2014 Jet Black": "seadon-womens-merino-sf100-long-sleeve-tee-jet-black",
+            "SF100 \u2014 Jungle Green": "seadon-womens-merino-sf100-long-sleeve-tee-jungle-green",
+            "SF100 \u2014 Nightshadow Blue": "seadon-womens-merino-sf100-long-sleeve-tee-nightshadow-blue"
           }
         }
       },
       "11349227": {
-        "name": "Early Bird — 1 Merino Style",
+        "name": "Early Bird \u2014 1 Merino Style",
         "qty": 1,
-        "gift_products": [
-          "seadon-merino-socks"
-        ],
         "options_tree": {
           "Men": {
-            "Traveler — Navy Blue": "seadon-mens-traveler-merino-long-sleeve-tee-navy-blue",
-            "Traveler — Iceberg Green": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-iceberg-green",
-            "Traveler — Red Mahogany": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
-            "SF100 — Jet Black": "seadon-mens-merino-sf100-long-sleeve-tee-jet-black",
-            "SF100 — Jungle Green": "seadon-mens-merino-sf100-long-sleeve-tee-jungle-green",
-            "SF100 — Sand": "seadon-mens-merino-sf100-long-sleeve-tee-sand"
+            "Traveler \u2014 Deep Teal": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-deep-teal",
+            "Traveler \u2014 Iceberg Green": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-iceberg-green",
+            "Traveler \u2014 Red Mahogany": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
+            "SF100 \u2014 Jet Black": "seadon-mens-merino-sf100-long-sleeve-tee-jet-black",
+            "SF100 \u2014 Jungle Green": "seadon-mens-merino-sf100-long-sleeve-tee-jungle-green",
+            "SF100 \u2014 Sand": "seadon-mens-merino-sf100-long-sleeve-tee-sand"
           },
           "Women": {
-            "Traveler — Red Mahogany": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
-            "Traveler — Roasted Pecan": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-roasted-pecan",
-            "Traveler — Sky Blue": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-sky-blue",
-            "SF100 — Jet Black": "seadon-womens-merino-sf100-long-sleeve-tee-jet-black",
-            "SF100 — Jungle Green": "seadon-womens-merino-sf100-long-sleeve-tee-jungle-green",
-            "SF100 — Nightshadow Blue": "seadon-womens-merino-sf100-long-sleeve-tee-nightshadow-blue"
+            "Traveler \u2014 Red Mahogany": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
+            "Traveler \u2014 Roasted Pecan": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-roasted-pecan",
+            "Traveler \u2014 Sky Blue": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-sky-blue",
+            "SF100 \u2014 Jet Black": "seadon-womens-merino-sf100-long-sleeve-tee-jet-black",
+            "SF100 \u2014 Jungle Green": "seadon-womens-merino-sf100-long-sleeve-tee-jungle-green",
+            "SF100 \u2014 Nightshadow Blue": "seadon-womens-merino-sf100-long-sleeve-tee-nightshadow-blue"
           }
         }
       },
       "11349236": {
-        "name": "Traveler / SF100 Duo — 2 Styles",
+        "name": "Traveler / SF100 Duo \u2014 2 Styles",
         "qty": 2,
-        "gift_products": [
-          "seadon-merino-socks"
-        ],
         "options_tree": {
           "Men": {
-            "Traveler — Navy Blue": "seadon-mens-traveler-merino-long-sleeve-tee-navy-blue",
-            "Traveler — Iceberg Green": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-iceberg-green",
-            "Traveler — Red Mahogany": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
-            "SF100 — Jet Black": "seadon-mens-merino-sf100-long-sleeve-tee-jet-black",
-            "SF100 — Jungle Green": "seadon-mens-merino-sf100-long-sleeve-tee-jungle-green",
-            "SF100 — Sand": "seadon-mens-merino-sf100-long-sleeve-tee-sand"
+            "Traveler \u2014 Deep Teal": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-deep-teal",
+            "Traveler \u2014 Iceberg Green": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-iceberg-green",
+            "Traveler \u2014 Red Mahogany": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
+            "SF100 \u2014 Jet Black": "seadon-mens-merino-sf100-long-sleeve-tee-jet-black",
+            "SF100 \u2014 Jungle Green": "seadon-mens-merino-sf100-long-sleeve-tee-jungle-green",
+            "SF100 \u2014 Sand": "seadon-mens-merino-sf100-long-sleeve-tee-sand"
           },
           "Women": {
-            "Traveler — Red Mahogany": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
-            "Traveler — Roasted Pecan": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-roasted-pecan",
-            "Traveler — Sky Blue": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-sky-blue",
-            "SF100 — Jet Black": "seadon-womens-merino-sf100-long-sleeve-tee-jet-black",
-            "SF100 — Jungle Green": "seadon-womens-merino-sf100-long-sleeve-tee-jungle-green",
-            "SF100 — Nightshadow Blue": "seadon-womens-merino-sf100-long-sleeve-tee-nightshadow-blue"
+            "Traveler \u2014 Red Mahogany": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
+            "Traveler \u2014 Roasted Pecan": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-roasted-pecan",
+            "Traveler \u2014 Sky Blue": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-sky-blue",
+            "SF100 \u2014 Jet Black": "seadon-womens-merino-sf100-long-sleeve-tee-jet-black",
+            "SF100 \u2014 Jungle Green": "seadon-womens-merino-sf100-long-sleeve-tee-jungle-green",
+            "SF100 \u2014 Nightshadow Blue": "seadon-womens-merino-sf100-long-sleeve-tee-nightshadow-blue"
           }
         }
       },
       "11349244": {
-        "name": "Traveler / SF100 Trio — 3 Styles",
+        "name": "Traveler / SF100 Trio \u2014 3 Styles",
         "qty": 3,
-        "gift_products": [
-          "seadon-merino-socks"
-        ],
         "options_tree": {
           "Men": {
-            "Traveler — Navy Blue": "seadon-mens-traveler-merino-long-sleeve-tee-navy-blue",
-            "Traveler — Iceberg Green": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-iceberg-green",
-            "Traveler — Red Mahogany": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
-            "SF100 — Jet Black": "seadon-mens-merino-sf100-long-sleeve-tee-jet-black",
-            "SF100 — Jungle Green": "seadon-mens-merino-sf100-long-sleeve-tee-jungle-green",
-            "SF100 — Sand": "seadon-mens-merino-sf100-long-sleeve-tee-sand"
+            "Traveler \u2014 Deep Teal": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-deep-teal",
+            "Traveler \u2014 Iceberg Green": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-iceberg-green",
+            "Traveler \u2014 Red Mahogany": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
+            "SF100 \u2014 Jet Black": "seadon-mens-merino-sf100-long-sleeve-tee-jet-black",
+            "SF100 \u2014 Jungle Green": "seadon-mens-merino-sf100-long-sleeve-tee-jungle-green",
+            "SF100 \u2014 Sand": "seadon-mens-merino-sf100-long-sleeve-tee-sand"
           },
           "Women": {
-            "Traveler — Red Mahogany": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
-            "Traveler — Roasted Pecan": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-roasted-pecan",
-            "Traveler — Sky Blue": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-sky-blue",
-            "SF100 — Jet Black": "seadon-womens-merino-sf100-long-sleeve-tee-jet-black",
-            "SF100 — Jungle Green": "seadon-womens-merino-sf100-long-sleeve-tee-jungle-green",
-            "SF100 — Nightshadow Blue": "seadon-womens-merino-sf100-long-sleeve-tee-nightshadow-blue"
+            "Traveler \u2014 Red Mahogany": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
+            "Traveler \u2014 Roasted Pecan": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-roasted-pecan",
+            "Traveler \u2014 Sky Blue": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-sky-blue",
+            "SF100 \u2014 Jet Black": "seadon-womens-merino-sf100-long-sleeve-tee-jet-black",
+            "SF100 \u2014 Jungle Green": "seadon-womens-merino-sf100-long-sleeve-tee-jungle-green",
+            "SF100 \u2014 Nightshadow Blue": "seadon-womens-merino-sf100-long-sleeve-tee-nightshadow-blue"
           }
         }
       },
       "11349281": {
-        "name": "Limited Print Edition — 1 SF100 Printed",
+        "name": "Limited Print Edition \u2014 1 SF100 Printed",
         "qty": 1,
-        "gift_products": [
-          "seadon-merino-socks"
-        ],
         "options_tree": {
           "Men": {
-            "SF100 Printed — Forest Camo": "seadon-mens-merino-sf100-long-sleeve-tee-graphic-forest-camo",
-            "SF100 Printed — Night Peak Camp": "seadon-mens-merino-sf100-long-sleeve-tee-graphic-night-peak-camp"
+            "SF100 Printed \u2014 Forest Camo": "seadon-mens-merino-sf100-long-sleeve-tee-graphic-forest-camo",
+            "SF100 Printed \u2014 Night Peak Camp": "seadon-mens-merino-sf100-long-sleeve-tee-graphic-night-peak-camp"
           },
           "Women": {
-            "SF100 Printed — Forest Camo": "seadon-womens-merino-sf100-long-sleeve-tee-graphic-forest-camo",
-            "SF100 Printed — Snow Peak Blue": "seadon-womens-merino-sf100-long-sleeve-tee-graphic-snow-peak-blue"
+            "SF100 Printed \u2014 Forest Camo": "seadon-womens-merino-sf100-long-sleeve-tee-graphic-forest-camo",
+            "SF100 Printed \u2014 Snow Peak Blue": "seadon-womens-merino-sf100-long-sleeve-tee-graphic-snow-peak-blue"
           }
         }
       },
       "11359795": {
-        "name": "Traveler / SF100 Four-Pack — 4 Styles",
+        "name": "Traveler / SF100 Four-Pack \u2014 4 Styles",
         "qty": 4,
-        "gift_products": [
-          "seadon-merino-socks"
-        ],
         "options_tree": {
           "Men": {
-            "Traveler — Navy Blue": "seadon-mens-traveler-merino-long-sleeve-tee-navy-blue",
-            "Traveler — Iceberg Green": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-iceberg-green",
-            "Traveler — Red Mahogany": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
-            "SF100 — Jet Black": "seadon-mens-merino-sf100-long-sleeve-tee-jet-black",
-            "SF100 — Jungle Green": "seadon-mens-merino-sf100-long-sleeve-tee-jungle-green",
-            "SF100 — Sand": "seadon-mens-merino-sf100-long-sleeve-tee-sand"
+            "Traveler \u2014 Deep Teal": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-deep-teal",
+            "Traveler \u2014 Iceberg Green": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-iceberg-green",
+            "Traveler \u2014 Red Mahogany": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
+            "SF100 \u2014 Jet Black": "seadon-mens-merino-sf100-long-sleeve-tee-jet-black",
+            "SF100 \u2014 Jungle Green": "seadon-mens-merino-sf100-long-sleeve-tee-jungle-green",
+            "SF100 \u2014 Sand": "seadon-mens-merino-sf100-long-sleeve-tee-sand"
           },
           "Women": {
-            "Traveler — Red Mahogany": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
-            "Traveler — Roasted Pecan": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-roasted-pecan",
-            "Traveler — Sky Blue": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-sky-blue",
-            "SF100 — Jet Black": "seadon-womens-merino-sf100-long-sleeve-tee-jet-black",
-            "SF100 — Jungle Green": "seadon-womens-merino-sf100-long-sleeve-tee-jungle-green",
-            "SF100 — Nightshadow Blue": "seadon-womens-merino-sf100-long-sleeve-tee-nightshadow-blue"
+            "Traveler \u2014 Red Mahogany": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
+            "Traveler \u2014 Roasted Pecan": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-roasted-pecan",
+            "Traveler \u2014 Sky Blue": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-sky-blue",
+            "SF100 \u2014 Jet Black": "seadon-womens-merino-sf100-long-sleeve-tee-jet-black",
+            "SF100 \u2014 Jungle Green": "seadon-womens-merino-sf100-long-sleeve-tee-jungle-green",
+            "SF100 \u2014 Nightshadow Blue": "seadon-womens-merino-sf100-long-sleeve-tee-nightshadow-blue"
           }
         }
       },
       "11359797": {
-        "name": "Traveler / SF100 Five-Pack — 5 Styles",
+        "name": "Traveler / SF100 Five-Pack \u2014 5 Styles",
         "qty": 5,
-        "gift_products": [
-          "seadon-merino-socks"
-        ],
         "options_tree": {
           "Men": {
-            "Traveler — Navy Blue": "seadon-mens-traveler-merino-long-sleeve-tee-navy-blue",
-            "Traveler — Iceberg Green": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-iceberg-green",
-            "Traveler — Red Mahogany": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
-            "SF100 — Jet Black": "seadon-mens-merino-sf100-long-sleeve-tee-jet-black",
-            "SF100 — Jungle Green": "seadon-mens-merino-sf100-long-sleeve-tee-jungle-green",
-            "SF100 — Sand": "seadon-mens-merino-sf100-long-sleeve-tee-sand"
+            "Traveler \u2014 Deep Teal": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-deep-teal",
+            "Traveler \u2014 Iceberg Green": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-iceberg-green",
+            "Traveler \u2014 Red Mahogany": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
+            "SF100 \u2014 Jet Black": "seadon-mens-merino-sf100-long-sleeve-tee-jet-black",
+            "SF100 \u2014 Jungle Green": "seadon-mens-merino-sf100-long-sleeve-tee-jungle-green",
+            "SF100 \u2014 Sand": "seadon-mens-merino-sf100-long-sleeve-tee-sand"
           },
           "Women": {
-            "Traveler — Red Mahogany": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
-            "Traveler — Roasted Pecan": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-roasted-pecan",
-            "Traveler — Sky Blue": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-sky-blue",
-            "SF100 — Jet Black": "seadon-womens-merino-sf100-long-sleeve-tee-jet-black",
-            "SF100 — Jungle Green": "seadon-womens-merino-sf100-long-sleeve-tee-jungle-green",
-            "SF100 — Nightshadow Blue": "seadon-womens-merino-sf100-long-sleeve-tee-nightshadow-blue"
+            "Traveler \u2014 Red Mahogany": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
+            "Traveler \u2014 Roasted Pecan": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-roasted-pecan",
+            "Traveler \u2014 Sky Blue": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-sky-blue",
+            "SF100 \u2014 Jet Black": "seadon-womens-merino-sf100-long-sleeve-tee-jet-black",
+            "SF100 \u2014 Jungle Green": "seadon-womens-merino-sf100-long-sleeve-tee-jungle-green",
+            "SF100 \u2014 Nightshadow Blue": "seadon-womens-merino-sf100-long-sleeve-tee-nightshadow-blue"
           }
         }
       },
       "11390001": {
         "name": "This Is Not Your Typical Merino Shirt",
         "qty": 1,
-        "gift_products": [
-          "seadon-merino-socks"
-        ],
         "options_tree": {
           "Men": {
-            "Traveler — Navy Blue": "seadon-mens-traveler-merino-long-sleeve-tee-navy-blue",
-            "Traveler — Iceberg Green": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-iceberg-green",
-            "Traveler — Red Mahogany": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
-            "SF100 — Jet Black": "seadon-mens-merino-sf100-long-sleeve-tee-jet-black",
-            "SF100 — Jungle Green": "seadon-mens-merino-sf100-long-sleeve-tee-jungle-green",
-            "SF100 — Sand": "seadon-mens-merino-sf100-long-sleeve-tee-sand",
-            "SF100 Printed — Forest Camo": "seadon-mens-merino-sf100-long-sleeve-tee-graphic-forest-camo",
-            "SF100 Printed — Night Peak Camp": "seadon-mens-merino-sf100-long-sleeve-tee-graphic-night-peak-camp"
+            "Traveler \u2014 Deep Teal": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-deep-teal",
+            "Traveler \u2014 Iceberg Green": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-iceberg-green",
+            "Traveler \u2014 Red Mahogany": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
+            "SF100 \u2014 Jet Black": "seadon-mens-merino-sf100-long-sleeve-tee-jet-black",
+            "SF100 \u2014 Jungle Green": "seadon-mens-merino-sf100-long-sleeve-tee-jungle-green",
+            "SF100 \u2014 Sand": "seadon-mens-merino-sf100-long-sleeve-tee-sand",
+            "SF100 Printed \u2014 Forest Camo": "seadon-mens-merino-sf100-long-sleeve-tee-graphic-forest-camo",
+            "SF100 Printed \u2014 Night Peak Camp": "seadon-mens-merino-sf100-long-sleeve-tee-graphic-night-peak-camp"
           },
           "Women": {
-            "Traveler — Red Mahogany": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
-            "Traveler — Roasted Pecan": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-roasted-pecan",
-            "Traveler — Sky Blue": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-sky-blue",
-            "SF100 — Jet Black": "seadon-womens-merino-sf100-long-sleeve-tee-jet-black",
-            "SF100 — Jungle Green": "seadon-womens-merino-sf100-long-sleeve-tee-jungle-green",
-            "SF100 — Nightshadow Blue": "seadon-womens-merino-sf100-long-sleeve-tee-nightshadow-blue",
-            "SF100 Printed — Forest Camo": "seadon-womens-merino-sf100-long-sleeve-tee-graphic-forest-camo",
-            "SF100 Printed — Snow Peak Blue": "seadon-womens-merino-sf100-long-sleeve-tee-graphic-snow-peak-blue"
+            "Traveler \u2014 Red Mahogany": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
+            "Traveler \u2014 Roasted Pecan": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-roasted-pecan",
+            "Traveler \u2014 Sky Blue": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-sky-blue",
+            "SF100 \u2014 Jet Black": "seadon-womens-merino-sf100-long-sleeve-tee-jet-black",
+            "SF100 \u2014 Jungle Green": "seadon-womens-merino-sf100-long-sleeve-tee-jungle-green",
+            "SF100 \u2014 Nightshadow Blue": "seadon-womens-merino-sf100-long-sleeve-tee-nightshadow-blue",
+            "SF100 Printed \u2014 Forest Camo": "seadon-womens-merino-sf100-long-sleeve-tee-graphic-forest-camo",
+            "SF100 Printed \u2014 Snow Peak Blue": "seadon-womens-merino-sf100-long-sleeve-tee-graphic-snow-peak-blue"
           }
         }
       }
@@ -259,20 +226,20 @@
         "qty": 1,
         "options_tree": {
           "Men": {
-            "Traveler — Navy Blue": "seadon-mens-traveler-merino-long-sleeve-tee-navy-blue",
-            "Traveler — Iceberg Green": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-iceberg-green",
-            "Traveler — Red Mahogany": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
-            "SF100 — Jet Black": "seadon-mens-merino-sf100-long-sleeve-tee-jet-black",
-            "SF100 — Jungle Green": "seadon-mens-merino-sf100-long-sleeve-tee-jungle-green",
-            "SF100 — Sand": "seadon-mens-merino-sf100-long-sleeve-tee-sand"
+            "Traveler \u2014 Deep Teal": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-deep-teal",
+            "Traveler \u2014 Iceberg Green": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-iceberg-green",
+            "Traveler \u2014 Red Mahogany": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
+            "SF100 \u2014 Jet Black": "seadon-mens-merino-sf100-long-sleeve-tee-jet-black",
+            "SF100 \u2014 Jungle Green": "seadon-mens-merino-sf100-long-sleeve-tee-jungle-green",
+            "SF100 \u2014 Sand": "seadon-mens-merino-sf100-long-sleeve-tee-sand"
           },
           "Women": {
-            "Traveler — Red Mahogany": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
-            "Traveler — Roasted Pecan": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-roasted-pecan",
-            "Traveler — Sky Blue": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-sky-blue",
-            "SF100 — Jet Black": "seadon-womens-merino-sf100-long-sleeve-tee-jet-black",
-            "SF100 — Jungle Green": "seadon-womens-merino-sf100-long-sleeve-tee-jungle-green",
-            "SF100 — Nightshadow Blue": "seadon-womens-merino-sf100-long-sleeve-tee-nightshadow-blue"
+            "Traveler \u2014 Red Mahogany": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
+            "Traveler \u2014 Roasted Pecan": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-roasted-pecan",
+            "Traveler \u2014 Sky Blue": "seadon-womens-traveler-merino-tencel-long-sleeve-tee-sky-blue",
+            "SF100 \u2014 Jet Black": "seadon-womens-merino-sf100-long-sleeve-tee-jet-black",
+            "SF100 \u2014 Jungle Green": "seadon-womens-merino-sf100-long-sleeve-tee-jungle-green",
+            "SF100 \u2014 Nightshadow Blue": "seadon-womens-merino-sf100-long-sleeve-tee-nightshadow-blue"
           }
         }
       },
@@ -281,12 +248,12 @@
         "qty": 1,
         "options_tree": {
           "Men": {
-            "SF100 Printed — Forest Camo": "seadon-mens-merino-sf100-long-sleeve-tee-graphic-forest-camo",
-            "SF100 Printed — Night Peak Camp": "seadon-mens-merino-sf100-long-sleeve-tee-graphic-night-peak-camp"
+            "SF100 Printed \u2014 Forest Camo": "seadon-mens-merino-sf100-long-sleeve-tee-graphic-forest-camo",
+            "SF100 Printed \u2014 Night Peak Camp": "seadon-mens-merino-sf100-long-sleeve-tee-graphic-night-peak-camp"
           },
           "Women": {
-            "SF100 Printed — Forest Camo": "seadon-womens-merino-sf100-long-sleeve-tee-graphic-forest-camo",
-            "SF100 Printed — Snow Peak Blue": "seadon-womens-merino-sf100-long-sleeve-tee-graphic-snow-peak-blue"
+            "SF100 Printed \u2014 Forest Camo": "seadon-womens-merino-sf100-long-sleeve-tee-graphic-forest-camo",
+            "SF100 Printed \u2014 Snow Peak Blue": "seadon-womens-merino-sf100-long-sleeve-tee-graphic-snow-peak-blue"
           }
         }
       }
@@ -297,7 +264,7 @@
     "campaign_image": "https://cdn.shopify.com/s/files/1/0940/1709/3879/files/gale_v2.jpg?v=1787576629",
     "rewards": {
       "10602057": {
-        "name": "🚀 Launch Special – 72hr Only",
+        "name": "\ud83d\ude80 Launch Special \u2013 72hr Only",
         "image": "https://cdn.shopify.com/s/files/1/0940/1709/3879/files/gale_v2-launch-special-72hr.jpg?v=1787643635",
         "qty": 1,
         "options_tree": {
@@ -318,7 +285,7 @@
         }
       },
       "10602158": {
-        "name": "🌱 Early Bird (Priority Shipping)",
+        "name": "\ud83c\udf31 Early Bird (Priority Shipping)",
         "image": "https://cdn.shopify.com/s/files/1/0940/1709/3879/files/gale_v2-early-bird-priority-shipping.webp?v=1787643919",
         "qty": 1,
         "options_tree": {
@@ -360,7 +327,7 @@
         }
       },
       "10602171": {
-        "name": "👥 Duo Pack – Better Value",
+        "name": "\ud83d\udc65 Duo Pack \u2013 Better Value",
         "image": "https://cdn.shopify.com/s/files/1/0940/1709/3879/files/gale_v2-duo-pack-better-value.webp?v=1787643920",
         "qty": 2,
         "options_tree": {
@@ -381,7 +348,7 @@
         }
       },
       "10602179": {
-        "name": "👌 Triple Pack – Mix It Up",
+        "name": "\ud83d\udc4c Triple Pack \u2013 Mix It Up",
         "image": "https://cdn.shopify.com/s/files/1/0940/1709/3879/files/gale_v2-triple-pack-mix.webp?v=1787643919",
         "qty": 3,
         "options_tree": {
@@ -402,7 +369,7 @@
         }
       },
       "10602181": {
-        "name": "🧭 4-Pack – Group Value",
+        "name": "\ud83e\udded 4-Pack \u2013 Group Value",
         "image": "https://cdn.shopify.com/s/files/1/0940/1709/3879/files/gale_v2-4-pack-group-value.webp?v=1787643920",
         "qty": 4,
         "options_tree": {
@@ -423,7 +390,7 @@
         }
       },
       "10602250": {
-        "name": "🖐️ 5-Pack – Complete the Collection",
+        "name": "\ud83d\udd90\ufe0f 5-Pack \u2013 Complete the Collection",
         "image": "https://cdn.shopify.com/s/files/1/0940/1709/3879/files/gale_v2-5-pack-complete-collection.webp?v=1787643920",
         "qty": 5,
         "options_tree": {
@@ -444,7 +411,7 @@
         }
       },
       "10838584": {
-        "name": "🚀 Early Bird II (Final Flight)",
+        "name": "\ud83d\ude80 Early Bird II (Final Flight)",
         "image": "https://cdn.shopify.com/s/files/1/0940/1709/3879/files/gale_v2-early-bird-ii-final-flight.webp?v=1787643920",
         "qty": 1,
         "options_tree": {
@@ -469,7 +436,7 @@
     "pledged": "$101,090"
   },
   "all_terrain_shirts": {
-    "campaign_title": "SEADON - All-Terrain Shirts with 16 Natural Performances 🍃",
+    "campaign_title": "SEADON - All-Terrain Shirts with 16 Natural Performances \ud83c\udf43",
     "rewards": {
       "7789784": {
         "name": "The Daymaker (SS) - Early Bird",
@@ -560,7 +527,7 @@
         "qty": 1,
         "options_tree": {
           "Men": {
-            "Deep Teal": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-deep-teal",
+            "Navy Blue": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-deep-teal",
             "Iceberg Green": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-iceberg-green",
             "Red Mahogany": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-red-mahogany",
             "Navy Blue": "seadon-mens-traveler-merino-tee-navy-blue",
@@ -1717,7 +1684,7 @@
         }
       },
       "7181636": {
-        "name": "🐰The Easter Kit 🐰(LIMITED)",
+        "name": "\ud83d\udc30The Easter Kit \ud83d\udc30(LIMITED)",
         "qty": 1,
         "options_tree": {
           "Men": {

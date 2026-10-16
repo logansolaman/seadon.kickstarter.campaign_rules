@@ -1,0 +1,326 @@
+{
+  "warehouses": {
+    "US": {
+      "enabled": true,
+      "women": [
+        {
+          "handle": "seadon-womens-traveler-merino-long-sleeve-tee-navy-blue",
+          "compare_at_price": 11000,
+          "backer_price": 6200,
+          "tag": "BACKER FAVORITE"
+        },
+        {
+          "handle": "seadon-womens-merino-sf100-long-sleeve-tee-atlantic-blue",
+          "compare_at_price": 11000,
+          "backer_price": 6200,
+          "tag": "NEW ARRIVAL"
+        },
+        {
+          "handle": "seadon-womens-mtn-sherpa-fleece-jacket-brown-bear",
+          "compare_at_price": 7900,
+          "backer_price": 4500,
+          "tag": "FIRST LOOK"
+        },
+        {
+          "handle": "seadon-womens-gale-v2-jacket-blue-peak-camo",
+          "compare_at_price": 9900,
+          "backer_price": 4900,
+          "tag": "BEST VALUE"
+        },
+        {
+          "handle": "seadon-womens-trailblazer-tee-charcoal",
+          "compare_at_price": 4000,
+          "backer_price": 1800,
+          "tag": "LAST CHANCE"
+        },
+        {
+          "handle": "seadon-unisex-exp-travel-pants-atlantic-blue",
+          "compare_at_price": 11000,
+          "backer_price": 6500,
+          "tag": "BACKER FAVORITE"
+        },
+        {
+          "handle": "seadon-roamer-5-panel-outdoor-cap-block-floral",
+          "compare_at_price": 3000,
+          "backer_price": 1800,
+          "tag": "COMPLETE YOUR KIT"
+        },
+        {
+          "handle": "seadon-womens-underwear-black",
+          "compare_at_price": 2800,
+          "backer_price": 1500,
+          "tag": "EVERYDAY ESSENTIAL"
+        }
+      ],
+      "men": [
+        {
+          "handle": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-deep-teal",
+          "compare_at_price": 11000,
+          "backer_price": 6200,
+          "tag": "BACKER FAVORITE"
+        },
+        {
+          "handle": "seadon-mens-merino-sf100-long-sleeve-tee-atlantic-blue",
+          "compare_at_price": 11000,
+          "backer_price": 6200,
+          "tag": "NEW ARRIVAL"
+        },
+        {
+          "handle": "seadon-mens-traveler-merino-tee-navy-blue",
+          "compare_at_price": 9800,
+          "backer_price": 5500,
+          "tag": "BACKER FAVORITE"
+        },
+        {
+          "handle": "seadon-mens-mtn-sherpa-fleece-jacket-brown-bear",
+          "compare_at_price": 7900,
+          "backer_price": 4500,
+          "tag": "FIRST LOOK"
+        },
+        {
+          "handle": "seadon-mens-gale-v2-jacket-blue-peak-camo",
+          "compare_at_price": 9900,
+          "backer_price": 4900,
+          "tag": "BEST VALUE"
+        },
+        {
+          "handle": "seadon-mens-trailblazer-tee-charcoal",
+          "compare_at_price": 4000,
+          "backer_price": 1800,
+          "tag": "LAST CHANCE"
+        },
+        {
+          "handle": "seadon-unisex-exp-travel-pants-atlantic-blue",
+          "compare_at_price": 11000,
+          "backer_price": 6500,
+          "tag": "BACKER FAVORITE"
+        },
+        {
+          "handle": "seadon-roamer-5-panel-outdoor-cap-block-floral",
+          "compare_at_price": 3000,
+          "backer_price": 1800,
+          "tag": "COMPLETE YOUR KIT"
+        },
+        {
+          "handle": "seadon-mens-underwear-air-blue",
+          "compare_at_price": 3000,
+          "backer_price": 1600,
+          "tag": "EVERYDAY ESSENTIAL"
+        }
+      ]
+    },
+    "DE": {
+      "enabled": true,
+      "women": [
+        {
+          "handle": "seadon-womens-traveler-merino-long-sleeve-tee-navy-blue",
+          "compare_at_price": 11000,
+          "backer_price": 6200,
+          "tag": "BACKER FAVORITE"
+        },
+        {
+          "handle": "seadon-womens-merino-sf100-long-sleeve-tee-atlantic-blue",
+          "compare_at_price": 11000,
+          "backer_price": 6200,
+          "tag": "NEW ARRIVAL"
+        },
+        {
+          "handle": "seadon-womens-gale-act-puffer-hoodie-balkan-black",
+          "compare_at_price": 19900,
+          "backer_price": 9900,
+          "tag": "WINTER READY"
+        },
+        {
+          "handle": "seadon-womens-gale-act-puffer-jacket-balkan-black",
+          "compare_at_price": 18900,
+          "backer_price": 8900,
+          "tag": "WINTER READY"
+        },
+        {
+          "handle": "seadon-womens-mtn-sherpa-fleece-jacket-brown-bear",
+          "compare_at_price": 7900,
+          "backer_price": 4500,
+          "tag": "FIRST LOOK"
+        },
+        {
+          "handle": "seadon-womens-gale-v2-jacket-blue-peak-camo",
+          "compare_at_price": 9900,
+          "backer_price": 4900,
+          "tag": "BEST VALUE"
+        },
+        {
+          "handle": "seadon-unisex-exp-travel-pants-atlantic-blue",
+          "compare_at_price": 11000,
+          "backer_price": 6500,
+          "tag": "BACKER FAVORITE"
+        },
+        {
+          "handle": "seadon-roamer-5-panel-outdoor-cap-block-floral",
+          "compare_at_price": 3000,
+          "backer_price": 1800,
+          "tag": "COMPLETE YOUR KIT"
+        }
+      ],
+      "men": [
+        {
+          "handle": "seadon-mens-traveler-merino-tencel-long-sleeve-tee-deep-teal",
+          "compare_at_price": 11000,
+          "backer_price": 6200,
+          "tag": "BACKER FAVORITE"
+        },
+        {
+          "handle": "seadon-mens-merino-sf100-long-sleeve-tee-atlantic-blue",
+          "compare_at_price": 11000,
+          "backer_price": 6200,
+          "tag": "NEW ARRIVAL"
+        },
+        {
+          "handle": "seadon-mens-gale-act-puffer-hoodie-balkan-black",
+          "compare_at_price": 19900,
+          "backer_price": 9900,
+          "tag": "WINTER READY"
+        },
+        {
+          "handle": "seadon-mens-gale-act-puffer-jacket-balkan-black",
+          "compare_at_price": 18900,
+          "backer_price": 8900,
+          "tag": "WINTER READY"
+        },
+        {
+          "handle": "seadon-mens-mtn-sherpa-fleece-jacket-brown-bear",
+          "compare_at_price": 7900,
+          "backer_price": 4500,
+          "tag": "FIRST LOOK"
+        },
+        {
+          "handle": "seadon-mens-gale-v2-jacket-blue-peak-camo",
+          "compare_at_price": 9900,
+          "backer_price": 4900,
+          "tag": "BEST VALUE"
+        },
+        {
+          "handle": "seadon-unisex-exp-travel-pants-atlantic-blue",
+          "compare_at_price": 11000,
+          "backer_price": 6500,
+          "tag": "BACKER FAVORITE"
+        },
+        {
+          "handle": "seadon-roamer-5-panel-outdoor-cap-block-floral",
+          "compare_at_price": 3000,
+          "backer_price": 1800,
+          "tag": "COMPLETE YOUR KIT"
+        }
+      ]
+    },
+    "HK": {
+      "enabled": true,
+      "women": [
+        {
+          "handle": "seadon-womens-gale-act-puffer-hoodie-balkan-black",
+          "compare_at_price": 19900,
+          "backer_price": 9900,
+          "tag": "WINTER READY"
+        },
+        {
+          "handle": "seadon-womens-mtn-sherpa-fleece-jacket-brown-bear",
+          "compare_at_price": 7900,
+          "backer_price": 4500,
+          "tag": "FIRST LOOK"
+        },
+        {
+          "handle": "seadon-womens-gale-act-puffer-jacket-balkan-black",
+          "compare_at_price": 18900,
+          "backer_price": 8900,
+          "tag": "WINTER READY"
+        },
+        {
+          "handle": "seadon-womens-trailblazer-tee-charcoal",
+          "compare_at_price": 4000,
+          "backer_price": 1800,
+          "tag": "LAST CHANCE"
+        },
+        {
+          "handle": "seadon-unisex-exp-travel-pants-atlantic-blue",
+          "compare_at_price": 11000,
+          "backer_price": 6500,
+          "tag": "BACKER FAVORITE"
+        },
+        {
+          "handle": "seadon-womens-verano-camp-collar-shirt-marble-white",
+          "compare_at_price": 7400,
+          "backer_price": 3900,
+          "tag": "BACKER EXCLUSIVE"
+        },
+        {
+          "handle": "seadon-roamer-5-panel-outdoor-cap-block-floral",
+          "compare_at_price": 3000,
+          "backer_price": 1800,
+          "tag": "COMPLETE YOUR KIT"
+        },
+        {
+          "handle": "seadon-womens-underwear-black",
+          "compare_at_price": 2800,
+          "backer_price": 1500,
+          "tag": "EVERYDAY ESSENTIAL"
+        }
+      ],
+      "men": [
+        {
+          "handle": "seadon-mens-gale-act-puffer-hoodie-balkan-black",
+          "compare_at_price": 19900,
+          "backer_price": 9900,
+          "tag": "WINTER READY"
+        },
+        {
+          "handle": "seadon-mens-mtn-sherpa-fleece-jacket-brown-bear",
+          "compare_at_price": 7900,
+          "backer_price": 4500,
+          "tag": "FIRST LOOK"
+        },
+        {
+          "handle": "seadon-mens-gale-act-puffer-jacket-balkan-black",
+          "compare_at_price": 18900,
+          "backer_price": 8900,
+          "tag": "WINTER READY"
+        },
+        {
+          "handle": "seadon-mens-traveler-merino-tee-navy-blue",
+          "compare_at_price": 9800,
+          "backer_price": 5500,
+          "tag": "BACKER FAVORITE"
+        },
+        {
+          "handle": "seadon-mens-trailblazer-tee-charcoal",
+          "compare_at_price": 4000,
+          "backer_price": 1800,
+          "tag": "LAST CHANCE"
+        },
+        {
+          "handle": "seadon-unisex-exp-travel-pants-atlantic-blue",
+          "compare_at_price": 11000,
+          "backer_price": 6500,
+          "tag": "BACKER FAVORITE"
+        },
+        {
+          "handle": "seadon-mens-verano-camp-collar-shirt-marble-white",
+          "compare_at_price": 7400,
+          "backer_price": 3900,
+          "tag": "BACKER EXCLUSIVE"
+        },
+        {
+          "handle": "seadon-roamer-5-panel-outdoor-cap-block-floral",
+          "compare_at_price": 3000,
+          "backer_price": 1800,
+          "tag": "COMPLETE YOUR KIT"
+        },
+        {
+          "handle": "seadon-mens-underwear-air-blue",
+          "compare_at_price": 3000,
+          "backer_price": 1600,
+          "tag": "EVERYDAY ESSENTIAL"
+        }
+      ]
+    }
+  },
+  "_price_unit": "cents"
+}
